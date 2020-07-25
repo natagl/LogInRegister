@@ -1,8 +1,8 @@
 # LogInRegister
 
 ### Client Side Setup:
-**Step 1.** Enter the cloned repo:
-cd Login-Register-Page-Boilerplate
+**Step 1.** Enter the cloned repo:<br>
+cd Login-Register-Page-Boilerplate<br>
 **Step 2.** install npm packages from the root of repo 
 npm install 
 **Step 3.** Enter client folder 
