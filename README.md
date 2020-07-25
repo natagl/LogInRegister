@@ -35,7 +35,7 @@ module.exports = { MONGODB:or'mongodb+srv://<USER_NAME>:<PASSWORD>@cluster0-vt
 **Step 4.**  Run the server:<br>
 npx nodemon or justnodemon<br>
   
-***Technologies Used:<br>
+### Technologies Used:<br>
 -> ReactJs, GraphQL, NodeJs, MongoBD, Mongoose, Apollo Server, Semantic UI, PostMan(for testing Heroky backend deployment)<br>
 For deployment:<br>
 -> Fontend: Netlify(https://nataliialoginregister.netlify.app/)<br>
