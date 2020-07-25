@@ -38,11 +38,11 @@ For deployment:<br>
 -> Backend: Heroku(https://tranquil-wildwood-09091.herokuapp.com/) <br>
 
 <br>
-#### Login Page
+Login Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/login.jpg)
 <br>
 <br>
-#### Register Page
+Register Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/registerjpg.jpg)
 <br>
 <br>
