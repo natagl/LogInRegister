@@ -37,17 +37,16 @@ For deployment:<br>
 -> Fontend: Netlify(https://nataliialoginregister.netlify.app/)<br>
 -> Backend: Heroku(https://tranquil-wildwood-09091.herokuapp.com/) <br>
 
-<br>
-Login Page
-<br>
-![alt tag](img/login.jpg)
-<br>
-<br>
+
+
+![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/login.jpg)
+
+
 Register Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/registerjpg.jpg)
 <br>
 <br>
-#### Contact<br>
+### Contact<br>
 
 Nataliia Glinska - glinska.nataliia21@gmail.com📩<br>
 Project Link : https://nataliialoginregister.netlify.app/<br>
