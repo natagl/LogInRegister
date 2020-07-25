@@ -40,7 +40,7 @@ For deployment:<br>
 <br>
 Login Page
 <br>
-![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/login.jpg)
+![alt tag](img/login.jpg)
 <br>
 <br>
 Register Page
