@@ -45,8 +45,13 @@ For deployment:<br>
 
 Nataliia Glinska - glinska.nataliia21@gmail.com📩<br>
 Project Link : https://nataliialoginregister.netlify.app/<br>
+<br>
+<br>
+Login Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/login.jpg)
 <br>
+<br>
+Register Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/registerjpg.jpg)
 
 
