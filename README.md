@@ -6,6 +6,7 @@
 **Step 2.** install npm packages from the root of repo :<br>
 *npm install <br>*
 **Step 3.** Start the client: <br> 
+*npm install apollo-client*
 *npm start <br>*
 You should see a server open at  <br>
 Local:   http://localhost:3000 <br>
