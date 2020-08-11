@@ -1,4 +1,4 @@
-# LogInRegister
+# LogIn/Register
 
 ### Client Side Setup:
 **Step 1.** Enter the cloned repo:<br>
