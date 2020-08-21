@@ -46,7 +46,6 @@ Login Page
 Register Page
 ![alt tag](https://github.com/natagl/LogInRegister/blob/master/img/registerjpg.jpg)
 <br>
-<br>
 ### Contact<br>
 
 Nataliia Glinska - glinska.nataliia21@gmail.com📩<br>
